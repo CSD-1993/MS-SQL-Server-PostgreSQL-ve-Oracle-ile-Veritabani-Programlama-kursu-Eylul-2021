@@ -1,0 +1,1 @@
+# MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritaban-Programlama-kursu
