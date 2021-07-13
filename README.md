@@ -1,4 +1,4 @@
-# MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritaban-Programlama-kursu
+# MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabanı-Programlama-kursu
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından düzenlenmektedir.
 + Kursun __10 Eylül 2021 Cuma günü başlayacaktır.
