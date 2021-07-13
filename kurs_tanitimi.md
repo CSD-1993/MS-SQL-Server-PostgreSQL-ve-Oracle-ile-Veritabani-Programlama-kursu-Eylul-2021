@@ -1,6 +1,6 @@
 # MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama
 
-+ Bu kurs [__C ve Sistem Programcıları Derneği__](htpp://www.csystem.org) tarafından düzenlenmektedir. 
++ Bu kurs [__C ve Sistem Programcıları Derneği__](htpp://www.csystem.org) ve Sistem Bilgisayar işbirliği ile düzenlenmektedir. 
 
 + __Covid19 Salgını__ ile yapılan düzenlemeler dahilinde kursa geçici olarak fiziksel katılım söz konusu değildir. Ancak salgına ilişkin koşullar ve yasal düzenlemeler değiştiğinde fiziksel katılım mümkün olacaktır.
 
@@ -73,7 +73,7 @@ _MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama_ kursu ilgili e
 Programın toplam ücreti **KDV Dahil 3200 TL**‘dir. Öğrenci olanlara _(öğrencilik durumunu belgelemeleri kaydıyla)_ __2800 TL__  dir. Katılımcılar, eğitim programı ücretini dilerlerse __2 taksitte__ ödeyebilirler.
 
 ## Eğitim Programına Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZcvd-qsqzItGNGRD5SqPwReLxvAx28fYf4T). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+[Katılım için önce ön kayıt yaptırmalısınız]( https://us02web.zoom.us/meeting/register/tZcudOGqrTkqH9G2kaLjfJGZwiuVw7cJYs7W). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-_MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/MSSQL_Server_PostgreSQL_ve_Oracle_ile_Veritabani_Programlama/blob/master/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
+_MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-kursu-Eylul-2021/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
